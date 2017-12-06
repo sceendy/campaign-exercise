@@ -1,0 +1,9 @@
+{
+  "name": "campaign-exercise",
+  "version": "0.0.1",
+  "description": "campaign micro-site exercise",
+  "main": "index.js",
+  "repository": "https://github.com/sceendy/campaign-exercise.git",
+  "author": "Cindy Juarez",
+  "license": "MIT"
+}
