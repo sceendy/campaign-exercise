@@ -6,8 +6,7 @@
   "scripts": {
     "build": "webpack --config webpack.prod.config.js",
     "clean": "rm -rf ./dist",
-    "dev": "webpack-dev-server --open --inline --content-base . --history-api-fallback",
-    "start": "npm run build && NODE_ENV=production node server.js"
+    "dev": "webpack-dev-server --open --inline --content-base . --history-api-fallback"
   },
   "repository": "https://github.com/sceendy/campaign-exercise.git",
   "author": "Cindy Juarez",
